@@ -1,0 +1,8 @@
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\XtionLib\XtionLib\bin\Debug\ColorBar2.txt
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\XtionLib\XtionLib\bin\Debug\XtionLib.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\XtionLib\XtionLib\bin\Debug\XtionLib.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\XtionLib\XtionLib\bin\Debug\OpenNI.Net.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\XtionLib\XtionLib\obj\Debug\XtionLib.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\XtionLib\XtionLib\obj\Debug\XtionLib.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\XtionLib\XtionLib\bin\Debug\SamplesConfigQVGA.xml
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\XtionLib\XtionLib\obj\Debug\XtionLib.csprojResolveAssemblyReference.cache
