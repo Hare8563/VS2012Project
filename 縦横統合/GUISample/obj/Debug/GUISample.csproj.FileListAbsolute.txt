@@ -1,0 +1,140 @@
+C:\Users\tanno\Desktop\cdpTester\GUISample\bin\Debug\GUISample.exe
+C:\Users\tanno\Desktop\cdpTester\GUISample\bin\Debug\GUISample.pdb
+C:\Users\tanno\Desktop\cdpTester\GUISample\bin\Debug\OpenCvSharp.dll
+C:\Users\tanno\Desktop\cdpTester\GUISample\bin\Debug\OpenCvSharp.xml
+C:\Users\tanno\Desktop\cdpTester\GUISample\obj\Debug\GUISample.csprojResolveAssemblyReference.cache
+C:\Users\tanno\Desktop\cdpTester\GUISample\obj\Debug\GUISample.Form1.resources
+C:\Users\tanno\Desktop\cdpTester\GUISample\obj\Debug\GUISample.Properties.Resources.resources
+C:\Users\tanno\Desktop\cdpTester\GUISample\obj\Debug\GUISample.csproj.GenerateResource.Cache
+C:\Users\tanno\Desktop\cdpTester\GUISample\obj\Debug\GUISample.exe
+C:\Users\tanno\Desktop\cdpTester\GUISample\obj\Debug\GUISample.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTester\GUISample\obj\Debug\GUISample.exe
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTester\GUISample\obj\Debug\GUISample.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTester\GUISample\bin\Debug\GUISample.exe
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTester\GUISample\bin\Debug\GUISample.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTester\GUISample\bin\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTester\GUISample\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTester\GUISample\bin\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTester\GUISample\bin\Debug\LabImg.xml
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTester\GUISample\bin\Debug\OpenCvSharp.xml
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTester\GUISample\obj\Debug\GUISample.csprojResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTester\GUISample\obj\Debug\GUISample.Form1.resources
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTester\GUISample\obj\Debug\GUISample.Properties.Resources.resources
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTester\GUISample\obj\Debug\GUISample.csproj.GenerateResource.Cache
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.exe
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTesterVer2.0\GUISample\bin\Debug\GUISample.exe
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTesterVer2.0\GUISample\bin\Debug\GUISample.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTesterVer2.0\GUISample\bin\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTesterVer2.0\GUISample\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTesterVer2.0\GUISample\bin\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTesterVer2.0\GUISample\bin\Debug\LabImg.xml
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTesterVer2.0\GUISample\bin\Debug\OpenCvSharp.xml
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.csprojResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.Form1.resources
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.Properties.Resources.resources
+C:\Users\indlab52\Desktop\三次元形状復元\C++\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.csproj.GenerateResource.Cache
+I:\LabLibrary\C++\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.exe
+I:\LabLibrary\C++\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.pdb
+I:\LabLibrary\C++\cdpTesterVer2.0\GUISample\bin\Debug\GUISample.exe
+I:\LabLibrary\C++\cdpTesterVer2.0\GUISample\bin\Debug\GUISample.pdb
+I:\LabLibrary\C++\cdpTesterVer2.0\GUISample\bin\Debug\LabImg.dll
+I:\LabLibrary\C++\cdpTesterVer2.0\GUISample\bin\Debug\OpenCvSharp.dll
+I:\LabLibrary\C++\cdpTesterVer2.0\GUISample\bin\Debug\OpenCvSharp.CPlusPlus.dll
+I:\LabLibrary\C++\cdpTesterVer2.0\GUISample\bin\Debug\LabImg.pdb
+I:\LabLibrary\C++\cdpTesterVer2.0\GUISample\bin\Debug\LabImg.xml
+I:\LabLibrary\C++\cdpTesterVer2.0\GUISample\bin\Debug\OpenCvSharp.xml
+I:\LabLibrary\C++\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.csprojResolveAssemblyReference.cache
+I:\LabLibrary\C++\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.Form1.resources
+I:\LabLibrary\C++\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.Properties.Resources.resources
+I:\LabLibrary\C++\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.csproj.GenerateResource.Cache
+\\INDLAB57\LabLibrary\C++\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.exe
+\\INDLAB57\LabLibrary\C++\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.exe
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\cdpTesterVer2.0\GUISample\bin\Debug\GUISample.exe
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\cdpTesterVer2.0\GUISample\bin\Debug\GUISample.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\cdpTesterVer2.0\GUISample\bin\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\cdpTesterVer2.0\GUISample\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\cdpTesterVer2.0\GUISample\bin\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\cdpTesterVer2.0\GUISample\bin\Debug\LabImg.xml
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\cdpTesterVer2.0\GUISample\bin\Debug\OpenCvSharp.xml
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.csprojResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.Form1.resources
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.Properties.Resources.resources
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\cdpTesterVer2.0\GUISample\obj\Debug\GUISample.csproj.GenerateResource.Cache
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\ブロックマッチテスト\GUISample\obj\Debug\GUISample.exe
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\ブロックマッチテスト\GUISample\obj\Debug\GUISample.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\ブロックマッチテスト\GUISample\bin\Debug\GUISample.exe
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\ブロックマッチテスト\GUISample\bin\Debug\GUISample.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\ブロックマッチテスト\GUISample\bin\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\ブロックマッチテスト\GUISample\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\ブロックマッチテスト\GUISample\bin\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\ブロックマッチテスト\GUISample\bin\Debug\LabImg.xml
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\ブロックマッチテスト\GUISample\bin\Debug\OpenCvSharp.xml
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\ブロックマッチテスト\GUISample\obj\Debug\GUISample.csprojResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\ブロックマッチテスト\GUISample\obj\Debug\GUISample.Form1.resources
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\ブロックマッチテスト\GUISample\obj\Debug\GUISample.Properties.Resources.resources
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\ブロックマッチテスト\GUISample\obj\Debug\GUISample.csproj.GenerateResource.Cache
+C:\Users\indlab52\Desktop\三次元形状復元\実験用ツール\ブロックマッチテスト\GUISample\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテスト\GUISample\obj\Debug\GUISample.exe
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテスト\GUISample\obj\Debug\GUISample.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテスト\GUISample\bin\Debug\GUISample.exe
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテスト\GUISample\bin\Debug\GUISample.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテスト\GUISample\bin\Debug\LabImg.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテスト\GUISample\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテスト\GUISample\bin\Debug\OpenCvSharp.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテスト\GUISample\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテスト\GUISample\obj\Debug\GUISample.csprojResolveAssemblyReference.cache
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテスト\GUISample\obj\Debug\GUISample.Form1.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテスト\GUISample\obj\Debug\GUISample.Properties.Resources.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテスト\GUISample\obj\Debug\GUISample.csproj.GenerateResource.Cache
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテストver2\GUISample\obj\Debug\GUISample.exe
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテストver2\GUISample\obj\Debug\GUISample.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテストver2\GUISample\obj\Debug\GUISample.csprojResolveAssemblyReference.cache
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテストver2\GUISample\obj\Debug\GUISample.Form1.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテストver2\GUISample\obj\Debug\GUISample.Properties.Resources.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテストver2\GUISample\obj\Debug\GUISample.csproj.GenerateResource.Cache
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテストver2\GUISample\bin\Debug\GUISample.exe
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテストver2\GUISample\bin\Debug\GUISample.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテストver2\GUISample\bin\Debug\LabImg.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテストver2\GUISample\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテストver2\GUISample\bin\Debug\OpenCvSharp.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\ブロックマッチテストver2\GUISample\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合検証\GUISample\obj\Debug\GUISample.exe
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合検証\GUISample\obj\Debug\GUISample.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合検証\GUISample\bin\Debug\GUISample.exe
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合検証\GUISample\bin\Debug\GUISample.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合検証\GUISample\bin\Debug\LabImg.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合検証\GUISample\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合検証\GUISample\bin\Debug\OpenCvSharp.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合検証\GUISample\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合検証\GUISample\obj\Debug\GUISample.csprojResolveAssemblyReference.cache
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合検証\GUISample\obj\Debug\GUISample.ChartForm.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合検証\GUISample\obj\Debug\GUISample.Form1.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合検証\GUISample\obj\Debug\GUISample.Properties.Resources.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合検証\GUISample\obj\Debug\GUISample.csproj.GenerateResource.Cache
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合検証\GUISample\obj\Debug\GUISample.Form2.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合検証\GUISample\obj\Debug\GUISample.HVCompare.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合検証\GUISample\obj\Debug\GUISample.DepthMap.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合検証\GUISample\obj\Debug\GUISample.depthCompare.resources
+\\INDLAB57\LabLibrary\実験用ツール\縦横統合検証\v0.4\GUISample\obj\Debug\GUISample.exe
+\\INDLAB57\LabLibrary\実験用ツール\縦横統合検証\v0.4\GUISample\obj\Debug\GUISample.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合\GUISample\obj\Debug\GUISample.exe
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合\GUISample\obj\Debug\GUISample.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合\GUISample\bin\Debug\GUISample.exe
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合\GUISample\bin\Debug\GUISample.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合\GUISample\bin\Debug\LabImg.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合\GUISample\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合\GUISample\bin\Debug\OpenCvSharp.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合\GUISample\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合\GUISample\obj\Debug\GUISample.csprojResolveAssemblyReference.cache
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合\GUISample\obj\Debug\GUISample.ChartForm.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合\GUISample\obj\Debug\GUISample.depthCompare.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合\GUISample\obj\Debug\GUISample.DepthMap.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合\GUISample\obj\Debug\GUISample.Form1.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合\GUISample\obj\Debug\GUISample.Form2.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合\GUISample\obj\Debug\GUISample.HVCompare.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合\GUISample\obj\Debug\GUISample.Properties.Resources.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合\GUISample\obj\Debug\GUISample.csproj.GenerateResource.Cache
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\縦横統合\GUISample\obj\Debug\GUISample.MatchingCompare.resources

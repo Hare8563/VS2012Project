@@ -1,0 +1,2 @@
+I:\tanno\VisualStudio\cdpTester\cdpTester\bin\Release\cdpTester.exe.config
+I:\tanno\VisualStudio\cdpTester\cdpTester\obj\Release\cdpTester.csprojResolveAssemblyReference.cache

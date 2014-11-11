@@ -1,0 +1,11 @@
+I:\tanno\VisualStudio\cdpTester\cdpTester\bin\Debug\cdpTester.exe.config
+I:\tanno\VisualStudio\cdpTester\cdpTester\obj\Debug\cdpTester.csprojResolveAssemblyReference.cache
+I:\tanno\VisualStudio\cdpTester\cdpTester\bin\Debug\cdpTester.exe
+I:\tanno\VisualStudio\cdpTester\cdpTester\bin\Debug\cdpTester.pdb
+I:\tanno\VisualStudio\cdpTester\cdpTester\bin\Debug\OpenCvSharp.dll
+I:\tanno\VisualStudio\cdpTester\cdpTester\bin\Debug\OpenCvSharp.xml
+I:\tanno\VisualStudio\cdpTester\cdpTester\obj\Debug\cdpTester.exe
+I:\tanno\VisualStudio\cdpTester\cdpTester\obj\Debug\cdpTester.pdb
+\\INDLAB57\LabLibrary\C++\cdpTester\cdpTester\bin\Debug\cdpTester.exe.config
+\\INDLAB57\LabLibrary\C++\cdpTester\cdpTester\obj\Debug\cdpTester.exe
+\\INDLAB57\LabLibrary\C++\cdpTester\cdpTester\obj\Debug\cdpTester.pdb
