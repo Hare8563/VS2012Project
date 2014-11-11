@@ -1,0 +1,176 @@
+c:\users\tanno\documents\visual studio 2012\Projects\LabImg\LabImg\bin\Release\LabImg.dll
+c:\users\tanno\documents\visual studio 2012\Projects\LabImg\LabImg\bin\Release\LabImg.pdb
+c:\users\tanno\documents\visual studio 2012\Projects\LabImg\LabImg\bin\Release\OpenCvSharp.CPlusPlus.dll
+c:\users\tanno\documents\visual studio 2012\Projects\LabImg\LabImg\bin\Release\OpenCvSharp.dll
+c:\users\tanno\documents\visual studio 2012\Projects\LabImg\LabImg\obj\Release\LabImg.dll
+c:\users\tanno\documents\visual studio 2012\Projects\LabImg\LabImg\obj\Release\LabImg.pdb
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2 - コピー\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2 - コピー\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2 - コピー\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2 - コピー\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2 - コピー\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2 - コピー\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+C:\Users\tanno\Desktop\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+C:\Users\tanno\Desktop\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+C:\Users\tanno\Desktop\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+C:\Users\tanno\Desktop\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\tanno\Desktop\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+C:\Users\tanno\Desktop\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.5\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.5\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.5\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.5\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.5\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.5\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.1k\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.1k\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.1k\LabImgLibrary\LabImg\bin\Release\OpenCvSharp.CPlusPlus.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.1k\LabImgLibrary\LabImg\obj\Release\ResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.1k\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.1k\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.1k\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.2k\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.2k\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.2k\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.2k\LabImgLibrary\LabImg\bin\Release\OpenCvSharp.CPlusPlus.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.2k\LabImgLibrary\LabImg\bin\Release\OpenCvSharp.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.2k\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.2k\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.2k\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.3k\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.3k\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.3k\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.3k\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.3k\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.3k\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.3k\LabImgLibrary\LabImg\bin\Release\OpenCvSharp.CPlusPlus.dll
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.3k\LabImgLibrary\LabImg\bin\Release\OpenCvSharp.dll
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.4h\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.4h\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.4h\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.4h\LabImgLibrary\LabImg\bin\Release\OpenCvSharp.CPlusPlus.dll
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.4h\LabImgLibrary\LabImg\bin\Release\OpenCvSharp.dll
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.4h\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.4h\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.4h\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.5.4h\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+I:\LabLibrary\C#\LabImg_Ver0.5.4h\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.5.4h\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.5.4h\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+I:\LabLibrary\C#\LabImg_Ver0.5.4h\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.5.4h\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.6.0\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+I:\LabLibrary\C#\LabImg_Ver0.6.0\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.6.0\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.6.0\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+I:\LabLibrary\C#\LabImg_Ver0.6.0\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.6.0\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+I:\dev\LabImg_Ver0.6.1\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+I:\dev\LabImg_Ver0.6.1\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+I:\dev\LabImg_Ver0.6.1\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+I:\dev\LabImg_Ver0.6.1\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+I:\dev\LabImg_Ver0.6.1\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+I:\dev\LabImg_Ver0.6.1\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+I:\dev\LabImg_Ver0.6.1\LabImgLibrary\LabImg\bin\Release\OpenCvSharp.CPlusPlus.dll
+I:\dev\LabImg_Ver0.6.1\LabImgLibrary\LabImg\bin\Release\OpenCvSharp.dll
+C:\Users\tanno\Desktop\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+C:\Users\tanno\Desktop\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+C:\Users\tanno\Desktop\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+C:\Users\tanno\Desktop\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\tanno\Desktop\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+C:\Users\tanno\Desktop\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+I:\dev\LabImgLibrary0.6.3\LabImg\bin\Release\LabImg.XML
+I:\dev\LabImgLibrary0.6.3\LabImg\bin\Release\LabImg.dll
+I:\dev\LabImgLibrary0.6.3\LabImg\bin\Release\LabImg.pdb
+I:\dev\LabImgLibrary0.6.3\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+I:\dev\LabImgLibrary0.6.3\LabImg\obj\Release\LabImg.dll
+I:\dev\LabImgLibrary0.6.3\LabImg\obj\Release\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.6.5\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+I:\LabLibrary\C#\LabImg_Ver0.6.5\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.6.5\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.6.5\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+I:\LabLibrary\C#\LabImg_Ver0.6.5\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.6.5\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.5\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.5\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.5\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.5\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.5\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.5\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.6\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.6\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.6\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.6\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.6\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.6\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+I:\LabLibrary\C#\LabImg_Ver0.6.7\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+I:\LabLibrary\C#\LabImg_Ver0.6.7\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.6.7\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.6.7\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+I:\LabLibrary\C#\LabImg_Ver0.6.7\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.6.7\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+I:\LabLibrary\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+I:\LabLibrary\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.10\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.10\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.10\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.10\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.10\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.10\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.7.0\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+I:\LabLibrary\C#\LabImg_Ver0.7.0\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.7.0\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.7.0\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+I:\LabLibrary\C#\LabImg_Ver0.7.0\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.7.0\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+C:\Users\tanno\Desktop\LabImg_Ver0.7.0\LabImgLibrary\LabImg\bin\Release\LabImg.XML
+C:\Users\tanno\Desktop\LabImg_Ver0.7.0\LabImgLibrary\LabImg\bin\Release\LabImg.dll
+C:\Users\tanno\Desktop\LabImg_Ver0.7.0\LabImgLibrary\LabImg\bin\Release\LabImg.pdb
+C:\Users\tanno\Desktop\LabImg_Ver0.7.0\LabImgLibrary\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\tanno\Desktop\LabImg_Ver0.7.0\LabImgLibrary\LabImg\obj\Release\LabImg.dll
+C:\Users\tanno\Desktop\LabImg_Ver0.7.0\LabImgLibrary\LabImg\obj\Release\LabImg.pdb
+I:\tannoPublic\スプライン補正ガンマカメラプログラム\LabImgLibrary_0.7.1\LabImg\bin\Release\LabImg.XML
+I:\tannoPublic\スプライン補正ガンマカメラプログラム\LabImgLibrary_0.7.1\LabImg\bin\Release\LabImg.dll
+I:\tannoPublic\スプライン補正ガンマカメラプログラム\LabImgLibrary_0.7.1\LabImg\bin\Release\LabImg.pdb
+I:\tannoPublic\スプライン補正ガンマカメラプログラム\LabImgLibrary_0.7.1\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+I:\tannoPublic\スプライン補正ガンマカメラプログラム\LabImgLibrary_0.7.1\LabImg\obj\Release\LabImg.dll
+I:\tannoPublic\スプライン補正ガンマカメラプログラム\LabImgLibrary_0.7.1\LabImg\obj\Release\LabImg.pdb
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImgLibrary_0.7.1\LabImg\bin\Release\LabImg.XML
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImgLibrary_0.7.1\LabImg\bin\Release\LabImg.dll
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImgLibrary_0.7.1\LabImg\bin\Release\LabImg.pdb
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImgLibrary_0.7.1\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImgLibrary_0.7.1\LabImg\obj\Release\LabImg.dll
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImgLibrary_0.7.1\LabImg\obj\Release\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.8.0\LabImg\bin\Release\LabImg.XML
+I:\LabLibrary\C#\LabImg_Ver0.8.0\LabImg\bin\Release\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.8.0\LabImg\bin\Release\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.8.0\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+I:\LabLibrary\C#\LabImg_Ver0.8.0\LabImg\obj\Release\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.8.0\LabImg\obj\Release\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.8.3\LabImg\bin\Release\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.8.3\LabImg\bin\Release\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.8.3\LabImg\bin\Release\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.8.3\LabImg\obj\Release\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.8.3\LabImg\obj\Release\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.8.3\LabImg\obj\Release\LabImg.pdb

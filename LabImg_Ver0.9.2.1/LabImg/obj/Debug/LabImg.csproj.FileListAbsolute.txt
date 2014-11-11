@@ -1,0 +1,282 @@
+c:\users\tanno\documents\visual studio 2012\Projects\LabImg\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+c:\users\tanno\documents\visual studio 2012\Projects\LabImg\LabImg\bin\Debug\LabImg.dll
+c:\users\tanno\documents\visual studio 2012\Projects\LabImg\LabImg\bin\Debug\LabImg.pdb
+c:\users\tanno\documents\visual studio 2012\Projects\LabImg\LabImg\bin\Debug\OpenCvSharp.CPlusPlus.dll
+c:\users\tanno\documents\visual studio 2012\Projects\LabImg\LabImg\bin\Debug\OpenCvSharp.dll
+c:\users\tanno\documents\visual studio 2012\Projects\LabImg\LabImg\obj\Debug\LabImg.dll
+c:\users\tanno\documents\visual studio 2012\Projects\LabImg\LabImg\obj\Debug\LabImg.pdb
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2 - コピー\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2 - コピー\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2 - コピー\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2 - コピー\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2 - コピー\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.2 - コピー\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\tanno\Desktop\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\tanno\Desktop\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\tanno\Desktop\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\tanno\Desktop\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\tanno\Desktop\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\tanno\Desktop\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.4\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.5\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.5\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.5\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.5\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.5\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\tanno\Desktop\kanemoto\ライブラリ化計画\ver0.5\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.0\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.0\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.0\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.0\LabImgLibrary\LabImg\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.0\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.0\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.1k\LabImgLibrary\LabImg\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.1k\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.1k\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.1k\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.1k\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.1k\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.2k\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.2k\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.2k\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.2k\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.2k\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.2k\LabImgLibrary\LabImg\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.2k\LabImgLibrary\LabImg\bin\Debug\OpenCvSharp.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.3k\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.3k\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.3k\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.3k\LabImgLibrary\LabImg\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.3k\LabImgLibrary\LabImg\bin\Debug\OpenCvSharp.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.3k\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.3k\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\ver0.5.3k\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.3k\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.3k\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.3k\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.3k\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.3k\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\s1180235\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.5.3k\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.6.0\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+I:\LabLibrary\C#\LabImg_Ver0.6.0\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.6.0\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.6.0\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+I:\LabLibrary\C#\LabImg_Ver0.6.0\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.6.0\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.0\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.0\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.0\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.0\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.0\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.0\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.1\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.1\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.1\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.1\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.1\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.1\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+I:\dev\LabImg_Ver0.6.1\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+I:\dev\LabImg_Ver0.6.1\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+I:\dev\LabImg_Ver0.6.1\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+I:\dev\LabImg_Ver0.6.1\LabImgLibrary\LabImg\bin\Debug\OpenCvSharp.CPlusPlus.dll
+I:\dev\LabImg_Ver0.6.1\LabImgLibrary\LabImg\bin\Debug\OpenCvSharp.dll
+I:\dev\LabImg_Ver0.6.1\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+I:\dev\LabImg_Ver0.6.1\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+I:\dev\LabImg_Ver0.6.1\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.3\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.3\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.3\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.3\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.3\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+\\indlab57\LabLibrary\C#\LabImg_Ver0.6.3\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+\\indlab57\LabLibrary\C#\LabImg_Ver0.6.3\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+\\indlab57\LabLibrary\C#\LabImg_Ver0.6.3\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+\\indlab57\LabLibrary\C#\LabImg_Ver0.6.3\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+\\indlab57\LabLibrary\C#\LabImg_Ver0.6.3\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+\\indlab57\LabLibrary\C#\LabImg_Ver0.6.3\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.3\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+I:\dev\LabImgLibrary0.6.3\LabImg\bin\Debug\LabImg.XML
+I:\dev\LabImgLibrary0.6.3\LabImg\bin\Debug\LabImg.dll
+I:\dev\LabImgLibrary0.6.3\LabImg\bin\Debug\LabImg.pdb
+I:\dev\LabImgLibrary0.6.3\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+I:\dev\LabImgLibrary0.6.3\LabImg\obj\Debug\LabImg.dll
+I:\dev\LabImgLibrary0.6.3\LabImg\obj\Debug\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.6.5\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+I:\LabLibrary\C#\LabImg_Ver0.6.5\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.6.5\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.6.5\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+I:\LabLibrary\C#\LabImg_Ver0.6.5\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.6.5\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.6\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.6\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.6\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.6\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.6\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.6\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.6.7\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+I:\LabLibrary\C#\LabImg_Ver0.6.7\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.6.7\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.6.7\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+I:\LabLibrary\C#\LabImg_Ver0.6.7\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.6.7\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.7\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.7\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.7\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.7\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.7\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.7\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.8\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.8\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.8\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.8\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.8\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.8\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+I:\LabLibrary\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+I:\LabLibrary\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.9\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.10\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.10\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.10\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.10\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.10\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.6.10\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.7.0\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+I:\LabLibrary\C#\LabImg_Ver0.7.0\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.7.0\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.7.0\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+I:\LabLibrary\C#\LabImg_Ver0.7.0\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.7.0\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\tanno\Desktop\LabImg_Ver0.7.0\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\tanno\Desktop\LabImg_Ver0.7.0\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\tanno\Desktop\LabImg_Ver0.7.0\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\tanno\Desktop\LabImg_Ver0.7.0\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\tanno\Desktop\LabImg_Ver0.7.0\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\tanno\Desktop\LabImg_Ver0.7.0\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImg_Ver0.7.0\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImg_Ver0.7.0\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImg_Ver0.7.0\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImg_Ver0.7.0\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImg_Ver0.7.0\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.7.1\LabImgLibrary\LabImg\bin\Debug\LabImg.XML
+I:\LabLibrary\C#\LabImg_Ver0.7.1\LabImgLibrary\LabImg\bin\Debug\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.7.1\LabImgLibrary\LabImg\bin\Debug\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.7.1\LabImgLibrary\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+I:\LabLibrary\C#\LabImg_Ver0.7.1\LabImgLibrary\LabImg\obj\Debug\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.7.1\LabImgLibrary\LabImg\obj\Debug\LabImg.pdb
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImgLibrary_0.7.1\LabImg\bin\Debug\LabImg.XML
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImgLibrary_0.7.1\LabImg\bin\Debug\LabImg.dll
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImgLibrary_0.7.1\LabImg\bin\Debug\LabImg.pdb
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImgLibrary_0.7.1\LabImg\obj\Debug\LabImg.dll
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImgLibrary_0.7.1\LabImg\obj\Debug\LabImg.pdb
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImg_Ver0.8.0\LabImg\bin\Debug\LabImg.XML
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImg_Ver0.8.0\LabImg\bin\Debug\LabImg.dll
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImg_Ver0.8.0\LabImg\bin\Debug\LabImg.pdb
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImg_Ver0.8.0\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImg_Ver0.8.0\LabImg\obj\Debug\LabImg.dll
+C:\Users\kanemoto\Desktop\三次元形状復元\C#\LabImg_Ver0.8.0\LabImg\obj\Debug\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.8.0\LabImg\bin\Debug\LabImg.XML
+I:\LabLibrary\C#\LabImg_Ver0.8.0\LabImg\bin\Debug\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.8.0\LabImg\bin\Debug\LabImg.pdb
+I:\LabLibrary\C#\LabImg_Ver0.8.0\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+I:\LabLibrary\C#\LabImg_Ver0.8.0\LabImg\obj\Debug\LabImg.dll
+I:\LabLibrary\C#\LabImg_Ver0.8.0\LabImg\obj\Debug\LabImg.pdb
+\\indlab57.u-aizu.ac.jp\LabLibrary\C#\LabImg_Ver0.8.0\LabImg\bin\Debug\LabImg.XML
+\\indlab57.u-aizu.ac.jp\LabLibrary\C#\LabImg_Ver0.8.0\LabImg\bin\Debug\LabImg.dll
+\\indlab57.u-aizu.ac.jp\LabLibrary\C#\LabImg_Ver0.8.0\LabImg\bin\Debug\LabImg.pdb
+\\indlab57.u-aizu.ac.jp\LabLibrary\C#\LabImg_Ver0.8.0\LabImg\obj\Debug\LabImg.dll
+\\indlab57.u-aizu.ac.jp\LabLibrary\C#\LabImg_Ver0.8.0\LabImg\obj\Debug\LabImg.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.0\LabImg\bin\Debug\LabImg.XML
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.0\LabImg\bin\Debug\LabImg.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.0\LabImg\bin\Debug\LabImg.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.0\LabImg\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.0\LabImg\bin\Debug\OpenCvSharp.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.0\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.0\LabImg\obj\Debug\LabImg.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.0\LabImg\obj\Debug\LabImg.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.1\LabImg\bin\Debug\LabImg.XML
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.1\LabImg\bin\Debug\LabImg.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.1\LabImg\bin\Debug\LabImg.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.1\LabImg\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.1\LabImg\bin\Debug\OpenCvSharp.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.1\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.1\LabImg\obj\Debug\LabImg.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.1\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.8.3\LabImg\bin\Debug\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.8.3\LabImg\bin\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.8.3\LabImg\bin\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.8.3\LabImg\obj\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.8.3\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.8.3\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.8.4\LabImg\bin\Debug\LabImg.XML
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.8.4\LabImg\bin\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.8.4\LabImg\bin\Debug\LabImg.pdb
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.8.4\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.8.4\LabImg\obj\Debug\LabImg.dll
+C:\Users\indlab52\Desktop\三次元形状復元\C#\LabImg_Ver0.8.4\LabImg\obj\Debug\LabImg.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.4\LabImg\bin\Debug\LabImg.XML
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.4\LabImg\bin\Debug\LabImg.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.4\LabImg\bin\Debug\LabImg.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.4\LabImg\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.4\LabImg\bin\Debug\OpenCvSharp.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.4\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.4\LabImg\obj\Debug\LabImg.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.4\LabImg\obj\Debug\LabImg.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.5\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.5\LabImg\obj\Debug\LabImg.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.5\LabImg\bin\Debug\LabImg.XML
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.5\LabImg\bin\Debug\LabImg.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.5\LabImg\bin\Debug\LabImg.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.5\LabImg\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.5\LabImg\bin\Debug\OpenCvSharp.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.8.5\LabImg\obj\Debug\LabImg.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.0\LabImg\bin\Debug\LabImg.XML
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.0\LabImg\bin\Debug\LabImg.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.0\LabImg\bin\Debug\LabImg.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.0\LabImg\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.0\LabImg\bin\Debug\OpenCvSharp.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.0\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.0\LabImg\obj\Debug\LabImg.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.0\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab63-PC\Documents\Visual Studio 2012\Projects\LabImg_Ver0.9.0\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\indlab63-PC\Documents\Visual Studio 2012\Projects\LabImg_Ver0.9.0\LabImg\obj\Debug\LabImg.dll
+C:\Users\indlab63-PC\Documents\Visual Studio 2012\Projects\LabImg_Ver0.9.0\LabImg\obj\Debug\LabImg.pdb
+C:\Users\indlab63-PC\Documents\Visual Studio 2012\Projects\LabImg_Ver0.9.0\LabImg\bin\Debug\LabImg.XML
+C:\Users\indlab63-PC\Documents\Visual Studio 2012\Projects\LabImg_Ver0.9.0\LabImg\bin\Debug\LabImg.dll
+C:\Users\indlab63-PC\Documents\Visual Studio 2012\Projects\LabImg_Ver0.9.0\LabImg\bin\Debug\LabImg.pdb
+C:\Users\indlab63-PC\Documents\Visual Studio 2012\Projects\LabImg_Ver0.9.0\LabImg\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\indlab63-PC\Documents\Visual Studio 2012\Projects\LabImg_Ver0.9.0\LabImg\bin\Debug\OpenCvSharp.dll
+C:\Users\indlab63-PC\Documents\Visual Studio 2012\Projects\LabImg_Ver0.9.0\LabImg\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.2\LabImg\bin\Debug\LabImg.XML
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.2\LabImg\bin\Debug\LabImg.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.2\LabImg\bin\Debug\LabImg.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.2\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.2\LabImg\obj\Debug\LabImg.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.2\LabImg\obj\Debug\LabImg.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.2.1\LabImg\bin\Debug\LabImg.XML
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.2.1\LabImg\bin\Debug\LabImg.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.2.1\LabImg\bin\Debug\LabImg.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.2.1\LabImg\obj\Debug\LabImg.csprojResolveAssemblyReference.cache
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.2.1\LabImg\obj\Debug\LabImg.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.2.1\LabImg\obj\Debug\LabImg.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.2.1\LabImg\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.2.1\LabImg\bin\Debug\OpenCvSharp.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\C#\LabImg_Ver0.9.2.1\LabImg\bin\Debug\OpenCvSharp.Extensions.dll
