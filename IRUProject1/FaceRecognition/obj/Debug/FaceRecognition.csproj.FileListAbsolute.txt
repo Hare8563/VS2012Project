@@ -1,0 +1,13 @@
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\IRUProject1\FaceRecognition\bin\Debug\FaceRecognition.exe.config
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\IRUProject1\FaceRecognition\bin\Debug\FaceRecognition.exe
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\IRUProject1\FaceRecognition\bin\Debug\FaceRecognition.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\IRUProject1\FaceRecognition\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\IRUProject1\FaceRecognition\bin\Debug\OpenCvSharp.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\IRUProject1\FaceRecognition\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\IRUProject1\FaceRecognition\obj\Debug\FaceRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\IRUProject1\FaceRecognition\obj\Debug\FaceRecognition.Form1.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\IRUProject1\FaceRecognition\obj\Debug\FaceRecognition.Properties.Resources.resources
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\IRUProject1\FaceRecognition\obj\Debug\FaceRecognition.csproj.GenerateResource.Cache
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\IRUProject1\FaceRecognition\obj\Debug\FaceRecognition.exe
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\IRUProject1\FaceRecognition\obj\Debug\FaceRecognition.pdb
+C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\IRUProject1\FaceRecognition\bin\Debug\haarcascade_frontalface_default.xml
