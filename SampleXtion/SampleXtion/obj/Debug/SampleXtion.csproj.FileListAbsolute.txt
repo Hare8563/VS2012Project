@@ -1,0 +1,13 @@
+c:\users\tetsushi\documents\visual studio 2012\Projects\SampleXtion\SampleXtion\bin\Debug\SampleXtion.exe.config
+c:\users\tetsushi\documents\visual studio 2012\Projects\SampleXtion\SampleXtion\bin\Debug\SampleXtion.exe
+c:\users\tetsushi\documents\visual studio 2012\Projects\SampleXtion\SampleXtion\bin\Debug\SampleXtion.pdb
+c:\users\tetsushi\documents\visual studio 2012\Projects\SampleXtion\SampleXtion\bin\Debug\LabImg.dll
+c:\users\tetsushi\documents\visual studio 2012\Projects\SampleXtion\SampleXtion\bin\Debug\OpenCvSharp.dll
+c:\users\tetsushi\documents\visual studio 2012\Projects\SampleXtion\SampleXtion\bin\Debug\OpenNI.Net.dll
+c:\users\tetsushi\documents\visual studio 2012\Projects\SampleXtion\SampleXtion\bin\Debug\XtionLib.dll
+c:\users\tetsushi\documents\visual studio 2012\Projects\SampleXtion\SampleXtion\obj\Debug\SampleXtion.csprojResolveAssemblyReference.cache
+c:\users\tetsushi\documents\visual studio 2012\Projects\SampleXtion\SampleXtion\obj\Debug\SampleXtion.Form1.resources
+c:\users\tetsushi\documents\visual studio 2012\Projects\SampleXtion\SampleXtion\obj\Debug\SampleXtion.Properties.Resources.resources
+c:\users\tetsushi\documents\visual studio 2012\Projects\SampleXtion\SampleXtion\obj\Debug\SampleXtion.csproj.GenerateResource.Cache
+c:\users\tetsushi\documents\visual studio 2012\Projects\SampleXtion\SampleXtion\obj\Debug\SampleXtion.exe
+c:\users\tetsushi\documents\visual studio 2012\Projects\SampleXtion\SampleXtion\obj\Debug\SampleXtion.pdb
