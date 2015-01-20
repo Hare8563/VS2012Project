@@ -1157,7 +1157,8 @@ namespace LabImg
 			using (Mat rightMat = new Mat(rightFlePath, LoadMode.GrayScale))
 			using (Mat disp = new Mat())
 			{
-				StereoSGBM sgbm = new StereoSGBM(0, 16, 5, 1, 1, 32, 3, 10, 3, 16, true);
+               
+                StereoSGBM sgbm = new StereoSGBM(0, 16, 5, 1, 1, 32, 3, 10, 3, 16, true);
 				sgbm.SADWindowSize = 2 * bmsize + 1;
 				sgbm.NumberOfDisparities = srcRange;
                 

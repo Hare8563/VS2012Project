@@ -23,7 +23,7 @@ namespace InterpolateShape
         IplImage BlockMatch;
         List<List<PVector>> vList = new List<List<PVector>>();
         List<PVector> pointList = new List<PVector>();
-       // Texture texture = new Texture();
+        Texture texture = new Texture();
     
 
         float PlaneMax;
@@ -40,6 +40,8 @@ namespace InterpolateShape
             OpenGL gl = GLControl.OpenGL;
             gl.BlendFunc(SharpGL.Enumerations.BlendingSourceFactor.SourceAlpha, SharpGL.Enumerations.BlendingDestinationFactor.OneMinusSourceAlpha);
             gl.Enable(OpenGL.GL_BLEND);
+           
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -59,6 +61,10 @@ namespace InterpolateShape
             pointList.Add(WorldPointFromImagePoint(460, 300));
             pointList.Add(WorldPointFromImagePoint(420, 340));
             pointList.Add(WorldPointFromImagePoint(460, 340));
+
+            OpenGL gl = GLControl.OpenGL;
+            gl.Enable(OpenGL.GL_TEXTURE_2D);
+            texture.Create(gl, Rimg.ToBitmap());
 
             drawPicturePoint();
             //   OpenGL gl = GLControl.OpenGL;
@@ -146,6 +152,38 @@ namespace InterpolateShape
             return Min;
         }
 
+        private Point ImagePointFromWorldPoint(PVector v)
+        {
+            CvMat mat = new CvMat(3,1, MatrixType.F32C1);
+            mat[0,0]　= v.X;
+            mat[1,0] = v.Y;
+            mat[2,0] = v.Z;
+            CvMat transMat = new CvMat(3,1,MatrixType.F32C1);
+            transMat[0,0] = 500;
+            transMat[1,0] = -100;
+            transMat[2,0] = -100;
+
+            //世界座標からカメラ座標に戻す
+            CvMat result = Disparity.CameraToWorldXYZ(mat, 0.0F, 88.0F, -90.0F, transMat);
+
+            
+            if (result[0, 0] == float.PositiveInfinity || result[0, 0] == float.NegativeInfinity || result[0, 0] == float.NaN)
+            {
+                result[0, 0] = 0;
+            }
+            if (result[1, 0] == float.PositiveInfinity || result[1, 0] == float.NegativeInfinity || result[1, 0] == float.NaN)
+            {
+                result[1, 0] = 0;
+            }
+            if (result[2, 0] == float.PositiveInfinity || result[2, 0] == float.NegativeInfinity || result[2, 0] == float.NaN)
+            {
+                result[2, 0] = 0;
+            }
+            float w = 6.1901241939439672e+002F / (float)result[2,0];
+            Point p = new Point((int)(result[0,0]*w+3.3693316268920898e+002F), (int)(result[1,0]*w+ 2.5559978485107422e+002F));
+            return p;
+        }
+
 
         private PVector WorldPointFromImagePoint(int x, int y)
         {
@@ -188,108 +226,137 @@ namespace InterpolateShape
             return v;
         }
 
-        private void glDraw(object sender, RenderEventArgs args)
-        {
-            OpenGL gl = GLControl.OpenGL;
 
-            if (renderFlag == true)
-            {
-            gl.Clear(OpenGL.GL_COLOR_BUFFER_BIT | OpenGL.GL_DEPTH_BUFFER_BIT);
-            gl.ClearColor(0.0F, .0F, .0F, 1.0F);
-            gl.MatrixMode(SharpGL.Enumerations.MatrixMode.Projection);
-            gl.LoadIdentity();
-            if (TopViewButton.Checked)
-            {
-                gl.Ortho(-GLControl.Width * 1.5, GLControl.Width * 1.5, -GLControl.Height * 3, GLControl.Height * 5, 0.01, 10000);
-                gl.LookAt(250, 0, 500, 250, 0, 0, 1, 0, 0);
-            }
-            else if (FlontViewButton.Checked)
-            {
-                gl.Ortho(-GLControl.Width * 1.5, GLControl.Width * 1.5, -GLControl.Height * 3, GLControl.Height * 5, 0.01, 10000);
-                gl.LookAt(-500, 0, 100, 0, 0, 0, 0, 0, 1);
-            }
-            else
-            {
-                gl.Perspective(60.0, GLControl.Width / GLControl.Height, 0.01, 10000);
-                gl.LookAt(-500.0, 300.0, 200.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0);
-            }
-            gl.Viewport(0, 0, GLControl.Width, GLControl.Height);
+        //private void glDraw(object sender, RenderEventArgs args)
+        //{
 
-            gl.MatrixMode(SharpGL.Enumerations.MatrixMode.Modelview);
-            gl.LoadIdentity();
-            //texture.Bind(gl);
+        //    OpenGL gl = GLControl.OpenGL;
 
-                gl.Begin(OpenGL.GL_POINT_BIT);
-                {
-                    foreach (List<PVector> list in vList)
-                    {
-                        VectorComparer comp = new VectorComparer();
-                        list.Sort(comp);
-                        PVector vertex;
+        //    PVector p1 = WorldPointFromImagePoint(0, 0);
+        //    PVector p2 = WorldPointFromImagePoint(Rimg.Width - 1, 0);
+        //    PVector p3 = WorldPointFromImagePoint(0, Rimg.Height - 1);
+        //    PVector p4 = WorldPointFromImagePoint(Rimg.Width - 1, Rimg.Height - 1);
 
-                        //中央値を描画していったもの
-                        if (list.Count > 2)//3点以上の交点があった場合
-                        {
-                            float[] sourseArray = new float[list.Count];
-                            int i = 0;
-                            foreach (PVector v in list)
-                            {
-                                sourseArray[i] = v.Z;
-                                i++;
-                            }
-                            float zPoint = CommonUtility.median(sourseArray);
-                            vertex = new PVector(list[0].X, list[0].Y, zPoint);
+        //    float dY = p2.Y - p1.Y;
+        //    float dX = p3.X - p1.X;
 
-                        }
-                        else if (list.Count == 2)//平均で対処
-                        {
-                            float[] sourseArray = new float[2];
-                            sourseArray[0] = list[0].Z;
-                            sourseArray[1] = list[1].Z;
-                            float zPoint = CommonUtility.average(sourseArray);
-                            vertex = new PVector(list[0].X, list[0].Y, zPoint);
-                        }
-                        else//そのまま使用
-                        {
-                            vertex = list[0];
-                        }
+        //    if (renderFlag == true)
+        //    {
+        //         gl.Clear(OpenGL.GL_COLOR_BUFFER_BIT | OpenGL.GL_DEPTH_BUFFER_BIT);
+        //        gl.ClearColor(0.0F, .0F, .0F, 1.0F);
+        //        gl.MatrixMode(SharpGL.Enumerations.MatrixMode.Projection);
+        //        gl.LoadIdentity();
+        //        if (TopViewButton.Checked)
+        //        {
+        //            gl.Ortho(-GLControl.Width * 1.5, GLControl.Width * 1.5, -GLControl.Height * 3, GLControl.Height * 5, 0.01, 10000);
+        //            gl.LookAt(250, 0, 500, 250, 0, 0, 1, 0, 0);
+        //        }
+        //        else if (FlontViewButton.Checked)
+        //        {
+        //            gl.Ortho(-GLControl.Width * 1.5, GLControl.Width * 1.5, -GLControl.Height * 3, GLControl.Height * 5, 0.01, 10000);
+        //            gl.LookAt(-500, 0, 100, 0, 0, 0, 0, 0, 1);
+        //        }
+        //        else
+        //        {
+        //            gl.Perspective(60.0, GLControl.Width / GLControl.Height, 0.01, 10000);
+        //            gl.LookAt(-500.0, 300.0, 200.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0);
+        //        }
+        //        gl.Viewport(0, 0, GLControl.Width, GLControl.Height);
+
+        //        gl.MatrixMode(SharpGL.Enumerations.MatrixMode.Modelview);
+        //        gl.LoadIdentity();
+
+        //        texture.Bind(gl);
+        //        gl.Begin(OpenGL.GL_QUADS);
+            
+        //        gl.TexCoord(0, 0);
+        //        gl.Vertex(p1.X, p1.Y, p1.Z);
+            
+        //        gl.TexCoord(1.0, 0.0);
+        //        gl.Vertex(p2.X, p2.Y, p2.Z);
+            
+        //        gl.TexCoord(0.0, 1.0);
+        //        gl.Vertex(p3.X, p3.Y, p3.Z);
+            
+        //        gl.TexCoord(1.0, 1.0);
+        //        gl.Vertex(p4.X, p4.Y, p4.Z);
+
+        //        gl.End();
 
 
-                        float col = renderZColor(vertex.Z);
-                        float r, g, b;
-                        renderColorGladation(col, out r, out g, out b);
-                        gl.Color(r, g, b, 1.0F);//色を指定
-                        gl.Vertex(vertex.X, vertex.Y, vertex.Z);
 
-                        //ブレンドですべての三角形との交点を描画していったもの
-                        /*
-                        foreach (PVector v in list)
-                        {
+        //           /* gl.Begin(OpenGL.GL_POINT_BIT);
+        //            {
+        //                foreach (List<PVector> list in vList)
+        //                {
+        //                    VectorComparer comp = new VectorComparer();
+        //                    list.Sort(comp);
+        //                    PVector vertex;
+
+        //                    //中央値を描画していったもの
+        //                    if (list.Count > 2)//3点以上の交点があった場合
+        //                    {
+        //                        float[] sourseArray = new float[list.Count];
+        //                        int i = 0;
+        //                        foreach (PVector v in list)
+        //                        {
+        //                            sourseArray[i] = v.Z;
+        //                            i++;
+        //                        }
+        //                        float zPoint = CommonUtility.median(sourseArray);
+        //                        vertex = new PVector(list[0].X, list[0].Y, zPoint);
+
+        //                    }
+        //                    else if (list.Count == 2)//平均で対処
+        //                    {
+        //                        float[] sourseArray = new float[2];
+        //                        sourseArray[0] = list[0].Z;
+        //                        sourseArray[1] = list[1].Z;
+        //                        float zPoint = CommonUtility.average(sourseArray);
+        //                        vertex = new PVector(list[0].X, list[0].Y, zPoint);
+        //                    }
+        //                    else//そのまま使用
+        //                    {
+        //                        vertex = list[0];
+        //                    }
+
+
+        //                    float col = renderZColor(vertex.Z);
+        //                    float r, g, b;
+        //                    renderColorGladation(col, out r, out g, out b);
+        //                    gl.Color(r, g, b, 1.0F);//色を指定
+        //                    gl.Vertex(vertex.X, vertex.Y, vertex.Z);
+        //                    //ブレンドですべての三角形との交点を描画していったもの
+        //                    /*
+        //                    foreach (PVector v in list)
+        //                    {
                             
-                            float col = renderZColor(v.Z);
-                            float r, g, b;
-                            renderColorGladation(col, out r, out g, out b);
-                            gl.Color(r, g, b, 0.5F);//色を指定
-                            gl.Vertex(v.X, v.Y, v.Z);
-                        }*/
-                    }
-                }
-                gl.End();
-                //指定点の座標表示
-                gl.PointSize(5.0f);
-                gl.Begin(OpenGL.GL_POINTS);
-                {
+        //                        float col = renderZColor(v.Z);
+        //                        float r, g, b;
+        //                        renderColorGladation(col, out r, out g, out b);
+        //                        gl.Color(r, g, b, 0.5F);//色を指定
+        //                        gl.Vertex(v.X, v.Y, v.Z);
+        //                    }
+        //                }
+        //            }
+        //            gl.End();
+        //            //指定点の座標表示
+        //            gl.PointSize(5.0f);
+        //            gl.Begin(OpenGL.GL_POINTS);
+        //            {
                     
-                    gl.Color(1.0f, 0.0f, 0.0f, 1.0f);
-                    foreach (PVector point in pointList)
-                    {
-                        gl.Vertex(point.X, point.Y, point.Z);
-                    }
-                }
-                gl.End();
-                renderFlag = false;
-            }
-        }
+        //                gl.Color(1.0f, 0.0f, 0.0f, 1.0f);
+        //                foreach (PVector point in pointList)
+        //                {
+        //                    gl.Vertex(point.X, point.Y, point.Z);
+        //                }
+        //            }
+        //            gl.End();*/
+        //            renderFlag = false;
+        //    }
+        //}
+
+
 
 
         private float renderZColor(float val)
@@ -309,7 +376,7 @@ namespace InterpolateShape
         private void button1_Click(object sender, EventArgs e)
         {
             List<ExTriangle> TriangleList = new List<ExTriangle>();
-
+           
 
             System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
             //ProgressDialog pd = new ProgressDialog();
@@ -352,7 +419,8 @@ namespace InterpolateShape
                 }
 
             }*/
-         
+
+
            for (int y = 0; y < Rimg.Height-40; y += 40)
             {
                 for (int x = 0; x <= Rimg.Width - 40; x += 40)

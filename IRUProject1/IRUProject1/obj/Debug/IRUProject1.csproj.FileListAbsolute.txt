@@ -210,3 +210,6 @@ c:\users\tetsushi\documents\visual studio 2012\Projects\IRUProject1\IRUProject1\
 c:\users\tetsushi\documents\visual studio 2012\Projects\IRUProject1\IRUProject1\obj\Debug\IRUProject1.exe
 c:\users\tetsushi\documents\visual studio 2012\Projects\IRUProject1\IRUProject1\obj\Debug\IRUProject1.pdb
 C:\Users\Tetsushi\Documents\Visual Studio 2012\Projects\IRUProject1\IRUProject1\bin\Debug\OpenCvSharp.dll
+C:\Users\Tetsushi\Documents\Visual Studio 2012\VS2012Project\IRUProject1\IRUProject1\bin\Debug\IRUProject1.exe.config
+C:\Users\Tetsushi\Documents\Visual Studio 2012\VS2012Project\IRUProject1\IRUProject1\obj\Debug\IRUProject1.exe
+C:\Users\Tetsushi\Documents\Visual Studio 2012\VS2012Project\IRUProject1\IRUProject1\obj\Debug\IRUProject1.pdb

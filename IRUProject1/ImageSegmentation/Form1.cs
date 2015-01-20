@@ -170,7 +170,7 @@ namespace ImageSegmentation
 
 
             //Evaluation
-            string answerFile = @"C:\Users\Tetsushi\Desktop\IRU2\answer5.jpg";
+            string answerFile = @"C:\Users\Tetsushi\Desktop\IRU2\answer2.jpg";
             IplImage answer = new IplImage(answerFile, LoadMode.GrayScale);
             //答え: t or f, 計測: p or n
             int tp=0, fp=0, tn=0, fn=0;
@@ -200,7 +200,7 @@ namespace ImageSegmentation
 
         private IplImage ColorGradientSegmentation(IplImage HsvImage)
         {
-            const int threshold = 40;
+            const int threshold = 20;
             IplImage returnImg = new IplImage(HsvImage.Size, BitDepth.U8, 1);
             IplImage dstImg = new IplImage(HsvImage.Size, BitDepth.U8, 3);
            // Mat dst = new Mat(HsvImage.Size,MatType.CV_8UC3);
@@ -524,6 +524,11 @@ namespace ImageSegmentation
             }//end of y loop
 
             return cluster;
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     
     }
